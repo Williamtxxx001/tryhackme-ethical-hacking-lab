@@ -12,7 +12,7 @@ My objective was to investigate the web application, discover hidden directories
 
 ### Dirb Scan Output
 ![Dirb Scan](Picture1.jpg)
-
+![Dirb Scan](Picture2.jpg)
 ---
 
 ## 🎯 Objective
